@@ -20,4 +20,6 @@ __pycache__/
 
 # Системные файлы
 Thumbs.db  # Windows
-.DS_Store  # macOS
+
+# Дополнительный фильтр
+tmp_data.txt
